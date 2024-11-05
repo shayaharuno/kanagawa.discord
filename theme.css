@@ -44,7 +44,7 @@ html {
 .theme-dark,
 .theme-light {
   --header-primary: white;
-  --header-secondary: #a5adce;
+  --header-secondary: white;
   --text-normal: #EFF0F1;
   --text-muted: #a5adce;
   --text-link: #89B4FA;
@@ -53,18 +53,18 @@ html {
   --text-warning: #e5c890;
   --text-danger: #e78284;
   --text-brand: white;
-  --background-primary: #1D1E27;
+  --background-primary: #2A2A37;
   --background-secondary: #1E1F28;
-  --background-secondary-alt: #1D1E27;
-  --background-tertiary: #15151C;
-  --background-accent: #54546D;
+  --background-secondary-alt: #1E1F28;
+  --background-tertiary: #16161D;
+  --background-accent: #1E1F28;
   --background-floating: #1E1F28;
   --background-nested-floating: #1E1F28;
-  --background-mobile-primary: #1E1F28;
+  --background-mobile-primary: white;
   --background-mobile-secondary: #1E1F28;
-  --chat-background: #1C1C25;
-  --chat-border: #1C1C25;
-  --chat-input-container-background: #1C1C25;
+  --chat-background: white;
+  --chat-border: white;
+  --chat-input-container-background: white;
   --info-positive-foreground: #a6d189;
   --info-positive-text: white;
   --info-warning-background: rgba(229, 200, 144, 0.15);
