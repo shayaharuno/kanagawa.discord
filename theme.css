@@ -55,7 +55,7 @@ html {
   --text-brand: white;
   --background-primary: #2A2A37;
   --background-secondary: #1E1F28;
-  --background-secondary-alt: #15151C;
+  --background-secondary-alt: #1D1E27;
   --background-tertiary: #15151C;
   --background-accent: #54546D;
   --background-floating: #1E1F28;
@@ -181,7 +181,7 @@ html {
   --channels-default: #949ec5;
   --channel-icon: #949ec5;
   --channel-text-area-placeholder: rgba(198, 208, 245, 0.5);
-  --channeltextarea-background: #262630;
+  --channeltextarea-background: #1D1E27;
   --activity-card-background: #232634;
   --textbox-markdown-syntax: #737994;
   --spoiler-revealed-background: #414559;
