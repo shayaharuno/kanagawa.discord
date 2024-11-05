@@ -43,19 +43,19 @@ html {
 
 .theme-dark,
 .theme-light {
-  --header-primary: white;
-  --header-secondary: white;
-  --text-normal: #EFF0F1;
+  --header-primary: #d2d7db;
+  --header-secondary: #a5adce;
+  --text-normal: #d2d7db;
   --text-muted: #a5adce;
   --text-link: #89B4FA;
   --text-link-low-saturation: #85c1dc;
   --text-positive: #a6d189;
   --text-warning: #e5c890;
   --text-danger: #e78284;
-  --text-brand: white;
-  --background-primary: #2A2A37;
-  --background-secondary: #1E1F28;
-  --background-secondary-alt: #1E1F28;
+  --text-brand: #d2d7db;
+  --background-primary: #1E1F28;
+  --background-secondary: #1A1B23;
+  --background-secondary-alt: #16161D;
   --background-tertiary: #16161D;
   --background-accent: #1E1F28;
   --background-floating: #1E1F28;
@@ -158,9 +158,9 @@ html {
   --button-outline-primary-border-active: #5c6279;
   --modal-background: #1F1F28;
   --modal-footer-background: #1C1C25;
-  --scrollbar-thin-thumb: #54546D;
+  --scrollbar-thin-thumb: #292a38;
   --scrollbar-thin-track: transparent;
-  --scrollbar-auto-thumb: #54546D;
+  --scrollbar-auto-thumb: #292a38;
   --scrollbar-auto-track: #1C1C25;
   --scrollbar-auto-scrollbar-color-thumb: white;
   --scrollbar-auto-scrollbar-color-track: #1C1C25;
@@ -181,7 +181,7 @@ html {
   --channels-default: #949ec5;
   --channel-icon: #949ec5;
   --channel-text-area-placeholder: rgba(198, 208, 245, 0.5);
-  --channeltextarea-background: #1D1E27;
+  --channeltextarea-background: #16161D;
   --activity-card-background: #232634;
   --textbox-markdown-syntax: #737994;
   --spoiler-revealed-background: #414559;
